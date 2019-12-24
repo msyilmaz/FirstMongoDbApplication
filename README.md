@@ -1,0 +1,2 @@
+# FirstMongoDbApplication
+Learn Mongo Db
